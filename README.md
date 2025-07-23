@@ -19,9 +19,9 @@ Formulário de feedback funcional.</p>
 <p> ListaFix
 <br>├── index.html         # Página principal com galeria de filmes e missão/visão
 <br>├── listas.html        # Página com hobbies, receita e links úteis
-├── feedback.html      # Página de formulário de feedback
-├── styles.css         # Estilização das páginas
-└── script.js          # Controle do menu lateral</p>
+<br>├── feedback.html      # Página de formulário de feedback
+<br>├── styles.css         # Estilização das páginas
+<br>└── script.js          # Controle do menu lateral</p>
 
   
 <h2>Funcionalidades</h2>
