@@ -75,6 +75,11 @@ footer{
   padding-top: 10px;
 }
 
+#desc-movies{
+  margin: 10px;
+  padding: 5px;
+}
+
 /* menu */
 
 .menu-header {
