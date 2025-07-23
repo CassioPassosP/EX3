@@ -17,8 +17,8 @@ Formulário de feedback funcional.</p>
 <h2>Estrutura do Projeto</h2>
 
 <p> ListaFix
-├── index.html         # Página principal com galeria de filmes e missão/visão
-├── listas.html        # Página com hobbies, receita e links úteis
+<br>├── index.html         # Página principal com galeria de filmes e missão/visão
+<br>├── listas.html        # Página com hobbies, receita e links úteis
 ├── feedback.html      # Página de formulário de feedback
 ├── styles.css         # Estilização das páginas
 └── script.js          # Controle do menu lateral</p>
@@ -76,6 +76,6 @@ Permitir que o usuário adicione seus próprios filmes.
 
 Adicionar favoritos ou status de "já assistido".</p>
 
-👨‍💻 Autor
-Cassio Passos
-Projeto desenvolvido com fins educacionais e práticos para reforçar conceitos de HTML, CSS e JavaScript.
+<h2>Autor</h2>
+<p>Cassio Passos</p>
+<p>Projeto desenvolvido com fins educacionais e práticos para reforçar conceitos de HTML, CSS e JavaScript.</p>
